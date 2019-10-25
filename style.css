@@ -1,0 +1,126 @@
+*{
+	margin:0px;
+	padding:0px;
+	text-decoration:none;
+	
+}
+
+.bgimage{
+	background-image: url('wallpaper.jpg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100vh;
+}
+
+.menu{
+	width: 100%;
+	height: 100px;
+	background-color: rgba(0,0,0,0.4);
+}
+
+.leftmenu{
+	width: 25%;
+	line-height: 100px;
+	float: left;
+}
+
+.leftmenu h4{
+	padding-left: 0px;
+	font-weight: bold;
+	color: red;
+	font-size: 50px;
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 3px 2px black;
+}
+
+.rightmenu{
+	width: 75%;
+	height: 100px;
+	float: right;
+}
+
+.rightmenu ul{
+	margin-left: 350px;   
+
+}
+.rightmenu ul li {
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 15px;
+	color: lightblue;
+	font-weight: bold;
+	line-height: 100px;
+	margin-left: 40px;
+	text-shadow: 3px 2px black;
+	
+}
+
+
+
+.text{
+	width: 100%;
+	margin-top: 190px;
+	text-align: center;
+	
+}
+
+.text h1{
+	background-color: red;
+	color: yellow;
+	font-size: 80px; 
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700px;
+	margin: 0px 0px;
+}
+
+.text h2{
+	
+	color: yellow;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#buttonone{
+	background-color: white;
+	border: none;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 40px;
+	width: 150px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 25px;
+	border: 3px solid white;
+}
+
+#buttontwo{
+	background-color: transparent;
+	border: none;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-weight: bold;
+	line-height: 40px;
+	border: 3px solid white;
+	width: 150px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
